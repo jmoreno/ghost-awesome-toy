@@ -13,11 +13,12 @@
     "attila": "github:zutrinken/attila#master",
     "casper": "github:tryghost/Casper#master",
     "editorial": "github:tryghost/Editorial#master",
-    "ghost": "^2.21.0",
+    "ghost": "^2.25.3",
     "ghost-storage-adapter-s3": "^2.3.0",
     "london": "github:tryghost/London#master",
     "massively": "github:tryghost/Massively#master",
     "mysql": "^2.17.1",
+    "the-shell": "github:mityalebedev/The-Shell#master",
     "the_shell": "github:mityalebedev/The-Shell#master"
   },
   "engines": {
