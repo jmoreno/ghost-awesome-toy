@@ -13,7 +13,7 @@
     "attila": "github:zutrinken/attila#master",
     "casper": "github:tryghost/Casper#master",
     "editorial": "github:tryghost/Editorial#master",
-    "ghost": "^2.25.3",
+    "ghost": "^3.0.0",
     "ghost-storage-adapter-s3": "^2.3.0",
     "london": "github:tryghost/London#master",
     "massively": "github:tryghost/Massively#master",
