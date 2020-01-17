@@ -17,6 +17,7 @@
     "ghost-storage-adapter-s3": "^2.3.0",
     "knex": "^0.14.0",
     "komik": "github:jmoreno/komik-theme#master",
+    "komik-theme": "github:jmoreno/komik-theme#master",
     "liebling": "github:eddiesigner/liebling#master",
     "london": "github:tryghost/London#master",
     "massively": "github:tryghost/Massively#master",
