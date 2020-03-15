@@ -16,13 +16,11 @@
     "ghost": "^3.0.0",
     "ghost-storage-adapter-s3": "^2.3.0",
     "knex": "^0.14.0",
-    "komik": "github:jmoreno/komik-theme#master",
-    "komik-theme": "github:jmoreno/komik-theme#master",
+    "lyra": "github:tryghost/Lyra#master",
     "liebling": "github:eddiesigner/liebling#master",
     "london": "github:tryghost/London#master",
     "massively": "github:tryghost/Massively#master",
     "mysql": "^2.17.1",
-    "the-shell": "github:mityalebedev/The-Shell#master",
     "the_shell": "github:mityalebedev/The-Shell#master"
   },
   "engines": {
