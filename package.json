@@ -13,14 +13,15 @@
     "attila": "github:zutrinken/attila#master",
     "casper": "github:tryghost/Casper#master",
     "editorial": "github:tryghost/Editorial#master",
-    "ghost": "^3.0.0",
+    "ghost": "^3.11.0",
     "ghost-storage-adapter-s3": "^2.3.0",
     "knex": "^0.14.0",
-    "lyra": "github:tryghost/Lyra#master",
     "liebling": "github:eddiesigner/liebling#master",
     "london": "github:tryghost/London#master",
+    "lyra": "github:tryghost/Lyra#master",
     "massively": "github:tryghost/Massively#master",
-    "mysql": "^2.17.1",
+    "mysql": "^2.18.1",
+    "the-shell": "github:mityalebedev/The-Shell#master",
     "the_shell": "github:mityalebedev/The-Shell#master"
   },
   "engines": {
