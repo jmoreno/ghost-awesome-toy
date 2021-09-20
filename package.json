@@ -13,7 +13,7 @@
     "attila": "github:zutrinken/attila#master",
     "casper": "github:tryghost/Casper#master",
     "editorial": "github:tryghost/Editorial#master",
-    "ghost": "^3.11.0",
+    "ghost": "^4.15.0",
     "ghost-storage-adapter-s3": "^2.3.0",
     "knex": "^0.14.0",
     "liebling": "github:eddiesigner/liebling#master",
