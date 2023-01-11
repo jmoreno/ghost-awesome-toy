@@ -15,7 +15,7 @@
     "editorial": "github:tryghost/Editorial#master",
     "ghost": "^3.11.0",
     "ghost-storage-adapter-s3": "^2.3.0",
-    "knex": "^0.14.0",
+    "knex": "^2.4.0",
     "liebling": "github:eddiesigner/liebling#master",
     "london": "github:tryghost/London#master",
     "lyra": "github:tryghost/Lyra#master",
